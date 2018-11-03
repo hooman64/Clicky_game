@@ -1,2 +1,3 @@
 # Clicky_game
-Homework 15
+
+A memory game using React
